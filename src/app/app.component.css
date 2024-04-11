@@ -1,0 +1,12 @@
+.container{
+    width: 800px;
+    background-color: rgb(173, 217, 61);
+    border: 1px solid blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+   text-align: center; 
+}
